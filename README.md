@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there! 👋 I'm Praveenkumar Dhanasekar 😎
 
-<!--
-**Praveenku-mar/Praveenku-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Innovator | AI  Explorer | FullStack Developer | Problem Solver
 
-Here are some ideas to get you started:
+Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, complemented by basic proficiency in Python and MySQL. As a fresher, I have demonstrated the ability to design and develop responsive websites and efficiently manage database systems. Eager to contribute to dynamic web development projects, I am committed to continuous learning and skill enhancement through hands-on experience in a collaborative and innovative environment.🌟💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+## 🌟 About Me  
+
+- 🎓 **B. Tech in Artificial Intelligence & Data Science** at **Dr. MCET, Pollachi** (*CGPA: 8.19*)  
+- 💻 **Software Developer** skilled in *Java, Python, and C Programming*   
+- 🏆 **Problem Solver** with expertise in *Data Structures, Algorithms, and Competitive Coding*  
+- 📚 Always learning and evolving to stay ahead in the tech world.  
+
+---  
+## 🔥 My Stats  
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenku-mar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
+
+### 💡 LeetCode Stats  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/Praveenkumar_Dhanasekar/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Praveenkumar_Dhanasekar?theme=dark&font=Roboto&solved=126)  
+
+---  
+## 🛠 Languages and Tools  
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+
+### ⚙️ Backend Development  
+🔗 Database | ⚙️ Flask Python 
+
+### 🤖 Data Science & AI    
+- Natural Language Processing  
+- Data Visualization  
+
+### 🔧 Tools & Technologies  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ☁️ Platforms  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
+
+---  
+## 💼 Connect with Me  
+
+🌐 **GitHub:** [Praveenkumar Dhanasekar](https://github.com/Praveenku-mar)  
+🔗 **LinkedIn:** [Praveenkumar Dhanasekar](https://www.linkedin.com/in/praveen-kumar-8aaa1627b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📩 **Email:** praveensekar223@gmail.com  
+
+Let's innovate and build something great! 🚀
