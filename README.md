@@ -13,7 +13,7 @@ Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, com
 - 📚 Always learning and evolving to stay ahead in the tech world.  
 
 ---  
-## 🔥 My Stats  
+## 🔥 My Status  
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenku-mar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
